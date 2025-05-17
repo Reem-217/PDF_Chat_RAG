@@ -4,7 +4,7 @@
 
 - 🦜 LangChain for chaining and document processing
 
-- 🦙 Ollama for local LLM inference (like LLaMA2, Mistral, etc.)
+- 🦙 Ollama for local LLM inference.
 
 - 📚 Chroma as a vector store for document embeddings
 
