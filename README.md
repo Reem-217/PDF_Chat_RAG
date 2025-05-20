@@ -6,6 +6,13 @@ This app uses Retrieval-Augmented Generation (RAG) with embeddings and Groq's LL
 ---
 ![App Screenshot](App.png)
 
+## Try It Online
+
+You can try out the PDF Chat RAG app live on Streamlit Cloud:
+
+[🚀 Try the app here](https://pdfchatrag-v56smbd9fcupqcthkboyrd.streamlit.app/)
+
+
 ## 🚀 Features
 
 - Upload and parse PDFs
