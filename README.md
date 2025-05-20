@@ -36,10 +36,3 @@ You can try out the PDF Chat RAG app live on Streamlit Cloud:
 - `dotenv` for environment variable management  
 
 ---
-
-## ⚙️ Setup & Usage
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Reem-217/PDF_Chat_RAG.git
-   cd PDF_Chat_RAG
