@@ -12,7 +12,7 @@ from utils import (
 
 # Page setup
 st.set_page_config(page_title="Chat with PDF + Summary", layout="wide")
-st.title("📄 Chat with PDF - RAG powered by LlAMA via Llama")
+st.title("📄 Chat with PDF - RAG powered by LlAMA via Groq")
 
 # Initialize session state
 if "chat_history" not in st.session_state:
