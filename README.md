@@ -4,6 +4,7 @@ Interact with your PDF documents by uploading them and chatting naturally!
 This app uses Retrieval-Augmented Generation (RAG) with embeddings and Groq's LLaMA model to answer questions based on your PDF content — plus you can get a summary of the document.
 
 ---
+![App Screenshot](App.png)
 
 ## 🚀 Features
 
